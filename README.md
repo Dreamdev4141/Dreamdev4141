@@ -20,8 +20,8 @@
 
 ### Frameworks, Libraries
 <img src="https://img.shields.io/badge/Node.js-4e982f?style=for-the-badge&logo=node.js&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=Angular"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/React Native-247cde?style=for-the-badge&logo=react&logoColor=white"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Flutter-479fcc?style=for-the-badge&logo=flutter&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/React-247cde?style=for-the-badge&logo=react&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/CodeIgniter-de4524?style=for-the-badge&logo=codeigniter&logoColor=white"/>&nbsp;&nbsp;
 
